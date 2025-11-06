@@ -1,4 +1,4 @@
-import React, { useMemo, useRef, useState, useEffect } from "react";
+import React, { useMemo, useState, useEffect } from "react";
 
 import vapTrait from "./assets/traits/vaporeon.png";
 import jolTrait from "./assets/traits/jolteon.png";
